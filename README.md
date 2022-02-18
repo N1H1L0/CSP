@@ -26,5 +26,4 @@ Look at the code to learn and don't just copy and paste. Although programmers of
 
 ## License
 
-TODO: Write license
-
+All of my code in this project is MIT Licensed - see the LICENSE file for details. Any submodules follow their own licensing.
